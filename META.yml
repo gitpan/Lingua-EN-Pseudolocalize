@@ -1,0 +1,20 @@
+---
+abstract: 'Test Unicode support by pretending to speak a different language.'
+author:
+  - 'Wes Malone <wesm@cpan.org>'
+build_requires:
+  Test::Simple: 0.98
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300016, CPAN::Meta::Converter version 2.120630'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Lingua-EN-Pseudolocalize
+requires:
+  Sub::Exporter::Simple: 1.103210
+resources:
+  repository: git://github.com/wesQ3/Lingua-EN-Pseudolocalize.git
+version: 0.001
